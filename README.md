@@ -14,3 +14,6 @@ The difference between the outputs for 2013 and 2019 is very hard to see. There 
 
 This Map utilized QuickOSM data to introduce building data to the light level map. The buliding data includes: retail, housing, and apartments. This allows us to get an idea of where the majorith of the population is and in correrelation there would be more stores and 24 hour locations (i.e. restaraunts, pharmacies).
 Idealy a retail store would want to be located in and around the majority of the living areas because they would accumulate the most business there. Furthermore, the nighttime lights in the area are prominent and show that there would be alot of people and places still open during late hours so that could accumulate more business if the retail chain is open 24 hours.
+
+Presentation Link:
+https://docs.google.com/presentation/d/1kZuLG1aELm-FB2sW3nadYNEztGCxa5Qr2nV0935TrxA/edit?usp=sharing
